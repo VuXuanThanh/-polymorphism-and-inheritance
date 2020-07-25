@@ -1,0 +1,13 @@
+E:\C_sharp\String_C_sharp\String_C_sharp\bin\Debug\netcoreapp3.1\String_C_sharp.exe
+E:\C_sharp\String_C_sharp\String_C_sharp\bin\Debug\netcoreapp3.1\String_C_sharp.deps.json
+E:\C_sharp\String_C_sharp\String_C_sharp\bin\Debug\netcoreapp3.1\String_C_sharp.runtimeconfig.json
+E:\C_sharp\String_C_sharp\String_C_sharp\bin\Debug\netcoreapp3.1\String_C_sharp.runtimeconfig.dev.json
+E:\C_sharp\String_C_sharp\String_C_sharp\bin\Debug\netcoreapp3.1\String_C_sharp.dll
+E:\C_sharp\String_C_sharp\String_C_sharp\bin\Debug\netcoreapp3.1\String_C_sharp.pdb
+E:\C_sharp\String_C_sharp\String_C_sharp\obj\Debug\netcoreapp3.1\String_C_sharp.csprojAssemblyReference.cache
+E:\C_sharp\String_C_sharp\String_C_sharp\obj\Debug\netcoreapp3.1\String_C_sharp.AssemblyInfoInputs.cache
+E:\C_sharp\String_C_sharp\String_C_sharp\obj\Debug\netcoreapp3.1\String_C_sharp.AssemblyInfo.cs
+E:\C_sharp\String_C_sharp\String_C_sharp\obj\Debug\netcoreapp3.1\String_C_sharp.csproj.CoreCompileInputs.cache
+E:\C_sharp\String_C_sharp\String_C_sharp\obj\Debug\netcoreapp3.1\String_C_sharp.dll
+E:\C_sharp\String_C_sharp\String_C_sharp\obj\Debug\netcoreapp3.1\String_C_sharp.pdb
+E:\C_sharp\String_C_sharp\String_C_sharp\obj\Debug\netcoreapp3.1\String_C_sharp.genruntimeconfig.cache
